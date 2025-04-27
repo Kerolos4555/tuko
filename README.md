@@ -10,20 +10,20 @@ A simple Flutter application that integrates audio playback to help users learn 
 
 ## 🏠 Home Screen
 
-![Image](https://github.com/user-attachments/assets/2a24ed11-d93a-409a-9183-9f51ce7ce20e)
+<img src="https://github.com/user-attachments/assets/2a24ed11-d93a-409a-9183-9f51ce7ce20e" width="300" height="700" />
 
 ## - Numbers Screen
 
-![Image](https://github.com/user-attachments/assets/d9c057de-6bc5-4a86-9b11-da5a0e178ad0)
+<img src="https://github.com/user-attachments/assets/d9c057de-6bc5-4a86-9b11-da5a0e178ad0" width="300" height="700" />
 
 ## - Family Members Screen
 
-![Image](https://github.com/user-attachments/assets/f1ee2b3d-ee7b-4a9a-a1c5-39f190804310)
+<img src="https://github.com/user-attachments/assets/f1ee2b3d-ee7b-4a9a-a1c5-39f190804310" width="300" height="700" />
 
 ## - Colors Screen
 
-![Image](https://github.com/user-attachments/assets/04d2b3b9-1199-4a10-bb5c-0d7dd00681b2)
+<img src="https://github.com/user-attachments/assets/04d2b3b9-1199-4a10-bb5c-0d7dd00681b2" width="300" height="700" />
 
 ## - Phrases Screen
 
-![Image](https://github.com/user-attachments/assets/54ea3f78-3535-4d05-92d5-04fadbbd271a)
+<img src="https://github.com/user-attachments/assets/54ea3f78-3535-4d05-92d5-04fadbbd271a" width="300" height="700" />
